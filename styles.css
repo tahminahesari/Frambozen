@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100;1,900&family=Yuji+Boku&family=Yuji+Mai&display=swap');
+
+h1 {
+    font-family: 'Poppins', "Times New Roman",sans-serif;
+    font-size: 35px;
+    color: rebeccapurple;
+    font-weight: 500;
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 300;
+    color: rebeccapurple;
+    text-transform: uppercase;
+    text-align: center;
+}
+main{
+    color:#535865;
+    font-family: 'Poppins', "Times New Roman", sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+body {
+    background-color: #DFD9E2;
+}
+
+
+.purpley {
+    font-family: 'Poppins', "Times New Roman", sans-serif;
+    color: #535865;
+    font-style: normal;
+}
+
+h3 {
+    color: rebeccapurple;
+}
+
+ul {
+    list-style: square;
+}
+
+button {
+    color: white;
+    background-color: rebeccapurple;
+}
+
